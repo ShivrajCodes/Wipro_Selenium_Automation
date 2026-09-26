@@ -1,0 +1,7 @@
+POST https://automationexercise.com/api/verifyLogin
+
+Request body:
+{
+  "email": "nonexistent@example.com",
+  "password": "wrongpassword"
+}

@@ -1,0 +1,11 @@
+login:
+  valid_user:
+    email: "test.user@example.com"
+    password: "TestPassword123"
+  invalid_user:
+    email: "nonexistent@example.com"
+    password: "wrongpassword"
+
+response_time_thresholds:
+  default_ms: 2000
+  create_user_ms: 3000

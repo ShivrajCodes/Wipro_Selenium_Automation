@@ -1,0 +1,8 @@
+Status: 200
+
+Body:
+{
+  "name": "Shivraj S. Updated",
+  "email": "shivraj.updated@example.com",
+  "id": 1
+}

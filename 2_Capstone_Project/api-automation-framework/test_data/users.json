@@ -1,0 +1,27 @@
+{
+  "valid_new_user": {
+    "name": "Shivraj Sharma",
+    "username": "shivraj.codes",
+    "email": "shivraj@example.com",
+    "phone": "1-770-736-8031",
+    "website": "shivraj.dev",
+    "address": {
+      "street": "MG Road",
+      "suite": "Apt. 42",
+      "city": "Kolkata",
+      "zipcode": "700001"
+    },
+    "company": {
+      "name": "UEM Labs",
+      "catchPhrase": "Building reliable software",
+      "bs": "scalable systems"
+    }
+  },
+  "update_payload": {
+    "name": "Shivraj S. Updated",
+    "email": "shivraj.updated@example.com"
+  },
+  "invalid_user_missing_fields": {
+    "username": "no.name.user"
+  }
+}

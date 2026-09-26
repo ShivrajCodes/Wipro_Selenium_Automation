@@ -1,0 +1,21 @@
+POST https://jsonplaceholder.typicode.com/users
+
+Request body:
+{
+  "name": "Shivraj Sharma",
+  "username": "shivraj.codes",
+  "email": "shivraj@example.com",
+  "phone": "1-770-736-8031",
+  "website": "shivraj.dev",
+  "address": {
+    "street": "MG Road",
+    "suite": "Apt. 42",
+    "city": "Kolkata",
+    "zipcode": "700001"
+  },
+  "company": {
+    "name": "UEM Labs",
+    "catchPhrase": "Building reliable software",
+    "bs": "scalable systems"
+  }
+}
