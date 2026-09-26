@@ -57,8 +57,8 @@ See `assignment1.py`.
 
 The console should display:
 
-Name: Arpan
-Email: arpan@example.com
+Name: Shivraj
+Email: shivraj@example.com
 Male selected: True
 
 ## Result
